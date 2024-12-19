@@ -18,13 +18,13 @@
 
 <details><summary>📌 Deploy to Render </summary>
   
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/RknDeveloper/Rkn-AutoCaptionBot)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://t.me/Star_Boy_96_vibes)
 
 </details>
   
 <details><summary>📌 Deploy to Heroku </summary>
   
-<a href="https://heroku.com/deploy?template=https://github.com/RknDeveloper/Rkn-AutoCaptionBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"></p></a>
+<a href="https://heroku.com/deploy?template=https://t.me/Star_Boy_96_vibes"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"></p></a>
 </details>
 
 <details><summary>📌 Deploy to Railway </summary>

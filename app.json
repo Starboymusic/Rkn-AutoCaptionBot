@@ -3,7 +3,7 @@
     "description": "Telegram Channel Auto Caption Bot ",
     "logo": "https://telegra.ph/file/21a8e96b45cd6ac4d3da6.jpg",
     "keywords": ["AutoCaptionBot", "Mongo DB"],    
-    "repository": "https://github.com/RknDeveloper/Rkn-AutoCaptionBot",
+    "repository": "https://t.me/Star_Boy_96_vibes",
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",

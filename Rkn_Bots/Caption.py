@@ -71,7 +71,7 @@ async def start_cmd(bot, message):
             types.InlineKeyboardButton('Main Channel', url='https://t.me/Star_Boy_96_vibes'),
             types.InlineKeyboardButton('Help Group', url='https://t.me/+YTq567GbiJY3M2Fl')
             ],[
-            types.InlineKeyboardButton('🔥 Source Code 🔥', url='https://github.com/RknDeveloper/Rkn-AutoCaptionBot')
+            types.InlineKeyboardButton('🔥 Source Code 🔥', url='https://t.me/Star_Boy_96_vibes')
     ]]))
     
 
