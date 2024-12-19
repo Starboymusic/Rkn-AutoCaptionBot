@@ -1,8 +1,8 @@
-# (c) @RknDeveloperr
+# (c) @Star_Boy_96_vibesr
 # Rkn Developer 
 # Don't Remove Credit 😔
-# Telegram Channel @RknDeveloper & @Rkn_Bots
-# Developer @RknDeveloperr
+# Telegram Channel @Star_Boy_96_vibes & @Rkn_Bots
+# Developer @Star_Boy_96_vibesr
 
 from aiohttp import web
 from pyrogram import Client
@@ -53,5 +53,5 @@ Rkn_AutoCaptionBot().run()
 
 # Rkn Developer 
 # Don't Remove Credit 😔
-# Telegram Channel @RknDeveloper & @Rkn_Bots
-# Developer @RknDeveloperr
+# Telegram Channel @Star_Boy_96_vibes & @Rkn_Bots
+# Developer @Star_Boy_96_vibesr

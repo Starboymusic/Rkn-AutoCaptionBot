@@ -1,8 +1,8 @@
-# (c) @RknDeveloperr
+# (c) @Star_Boy_96_vibesr
 # Rkn Developer 
 # Don't Remove Credit 😔
-# Telegram Channel @RknDeveloper & @Star_Boy_96_vibes
-# Developer @RknDeveloperr
+# Telegram Channel @Star_Boy_96_vibes & @Star_Boy_96_vibes
+# Developer @Star_Boy_96_vibesr
 
 import re, os, time
 id_pattern = re.compile(r'^.\d+$') 
@@ -29,7 +29,7 @@ class Rkn_Bots(object):
     DB_URL = os.environ.get("DB_URL", "")
 
     # default caption 
-    DEF_CAP = os.environ.get("DEF_CAP", "<b><a href='https//:t.me/Star_Boy_96_vibes'>{file_name} Main Telegram Channel: @RknDeveloper</a></b>",
+    DEF_CAP = os.environ.get("DEF_CAP", "<b><a href='https//:t.me/Star_Boy_96_vibes'>{file_name} Main Telegram Channel: @Star_Boy_96_vibes</a></b>",
     )
 
     # sticker Id
@@ -41,5 +41,5 @@ class Rkn_Bots(object):
 
 # Rkn Developer 
 # Don't Remove Credit 😔
-# Telegram Channel @RknDeveloper & @Star_Boy_96_vibes
-# Developer @RknDeveloperr
+# Telegram Channel @Star_Boy_96_vibes & @Star_Boy_96_vibes
+# Developer @Star_Boy_96_vibesr

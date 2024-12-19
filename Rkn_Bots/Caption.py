@@ -1,8 +1,8 @@
-# (c) @RknDeveloperr
+# (c) @Star_Boy_96_vibesr
 # Rkn Developer 
 # Don't Remove Credit 😔
-# Telegram Channel @RknDeveloper & @Star_Boy_96_vibes
-# Developer @RknDeveloperr
+# Telegram Channel @Star_Boy_96_vibes & @Star_Boy_96_vibes
+# Developer @Star_Boy_96_vibesr
 
 from pyrogram import Client, filters, errors, types
 from config import Rkn_Bots
@@ -152,5 +152,5 @@ async def auto_edit_caption(bot, message):
 
 # Rkn Developer 
 # Don't Remove Credit 😔
-# Telegram Channel @RknDeveloper & @Star_Boy_96_vibes
-# Developer @RknDeveloperr
+# Telegram Channel @Star_Boy_96_vibes & @Star_Boy_96_vibes
+# Developer @Star_Boy_96_vibesr

@@ -1,8 +1,8 @@
-# (c) @RknDeveloperr
+# (c) @Star_Boy_96_vibesr
 # Rkn Developer 
 # Don't Remove Credit 😔
-# Telegram Channel @RknDeveloper & @Rkn_Bots
-# Developer @RknDeveloperr
+# Telegram Channel @Star_Boy_96_vibes & @Rkn_Bots
+# Developer @Star_Boy_96_vibesr
 
 import motor.motor_asyncio
 from config import Rkn_Bots
@@ -41,5 +41,5 @@ async def updateCap(chnl_id, caption):
 
 # Rkn Developer 
 # Don't Remove Credit 😔
-# Telegram Channel @RknDeveloper & @Rkn_Bots
-# Developer @RknDeveloperr
+# Telegram Channel @Star_Boy_96_vibes & @Rkn_Bots
+# Developer @Star_Boy_96_vibesr

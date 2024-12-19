@@ -13,7 +13,7 @@
 
 <details><summary>📌 Deploy to Koyeb </summary>
   
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/RknDeveloper/Rkn-AutoCaptionBot&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[ADMIN]&env[DB_NAME]&env[DB_URI]&env[FORCE_SUB]&env[RKN_PIC]=https://graph.org/file/f6c15009bce07058f1edb.jpg&env[DEF_CAP]&run_command=python%20bot.py&branch=main&name=Rkn-AutoCaptionBot) 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Star_Boy_96_vibes/Rkn-AutoCaptionBot&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[ADMIN]&env[DB_NAME]&env[DB_URI]&env[FORCE_SUB]&env[RKN_PIC]=https://graph.org/file/f6c15009bce07058f1edb.jpg&env[DEF_CAP]&run_command=python%20bot.py&branch=main&name=Rkn-AutoCaptionBot) 
 </details>
 
 <details><summary>📌 Deploy to Render </summary>
@@ -70,4 +70,4 @@ broadcast - sᴇɴᴅ ᴍᴀssᴀɢᴇ ᴛᴏ ᴀʟʟ ᴜsᴇʀs (ᴀᴅᴍɪɴ 
 * [![Updates](https://img.shields.io/static/v1?label=Updates&message=Channel&color=critical)](https://t.me/Rkn_Bots)
 
 ## Credits 
-* [![RknDeveloper](https://img.shields.io/static/v1?label=Rkn&message=Developer&color=critical)](https://t.me/Star_Boy_96_vibes)
+* [![Star_Boy_96_vibes](https://img.shields.io/static/v1?label=Rkn&message=Developer&color=critical)](https://t.me/Star_Boy_96_vibes)
