@@ -1,7 +1,7 @@
 # (c) @RknDeveloperr
 # Rkn Developer 
 # Don't Remove Credit 😔
-# Telegram Channel @RknDeveloper & @Rkn_Botz
+# Telegram Channel @RknDeveloper & @Star_Boy_96_vibes
 # Developer @RknDeveloperr
 
 import re, os, time
@@ -22,14 +22,14 @@ class Rkn_Bots(object):
     PORT = int(os.environ.get("PORT", "8080"))
 
     # force subs channel ( required.. 😥)
-    FORCE_SUB = os.environ.get("FORCE_SUB", "Rkn_Botz") 
+    FORCE_SUB = os.environ.get("FORCE_SUB", "Star_Boy_96_vibes") 
     
     # database config ( required.. 😥)
     DB_NAME = os.environ.get("DB_NAME", "AutoCaption_V05_Bot")     
     DB_URL = os.environ.get("DB_URL", "")
 
     # default caption 
-    DEF_CAP = os.environ.get("DEF_CAP", "<b><a href='https//:t.me/Rkn_Botz'>{file_name} Main Telegram Channel: @RknDeveloper</a></b>",
+    DEF_CAP = os.environ.get("DEF_CAP", "<b><a href='https//:t.me/Star_Boy_96_vibes'>{file_name} Main Telegram Channel: @RknDeveloper</a></b>",
     )
 
     # sticker Id
@@ -41,5 +41,5 @@ class Rkn_Bots(object):
 
 # Rkn Developer 
 # Don't Remove Credit 😔
-# Telegram Channel @RknDeveloper & @Rkn_Botz
+# Telegram Channel @RknDeveloper & @Star_Boy_96_vibes
 # Developer @RknDeveloperr

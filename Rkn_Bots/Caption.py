@@ -1,7 +1,7 @@
 # (c) @RknDeveloperr
 # Rkn Developer 
 # Don't Remove Credit 😔
-# Telegram Channel @RknDeveloper & @Rkn_Botz
+# Telegram Channel @RknDeveloper & @Star_Boy_96_vibes
 # Developer @RknDeveloperr
 
 from pyrogram import Client, filters, errors, types
@@ -152,5 +152,5 @@ async def auto_edit_caption(bot, message):
 
 # Rkn Developer 
 # Don't Remove Credit 😔
-# Telegram Channel @RknDeveloper & @Rkn_Botz
+# Telegram Channel @RknDeveloper & @Star_Boy_96_vibes
 # Developer @RknDeveloperr
