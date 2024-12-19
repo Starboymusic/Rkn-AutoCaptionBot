@@ -7,7 +7,7 @@
 import re, os, time
 id_pattern = re.compile(r'^.\d+$') 
 
-class Star_light_10(object):
+class Rkn_Bots(object):
     
     # Rkn client config  ( required.. 😥)
     API_ID = os.environ.get("API_ID", "")

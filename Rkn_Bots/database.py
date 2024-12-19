@@ -1,14 +1,14 @@
 # (c) @Star_Boy_96_vibesr
 # Rkn Developer 
 # Don't Remove Credit 😔
-# Telegram Channel @Star_Boy_96_vibes & @Star_light_10
+# Telegram Channel @Star_Boy_96_vibes & @Rkn_Bots
 # Developer @Star_Boy_96_vibesr
 
 import motor.motor_asyncio
-from config import Star_light_10
+from config import Rkn_Bots
 
-client = motor.motor_asyncio.AsyncIOMotorClient(Star_light_10.DB_URL)
-db = client[Star_light_10.DB_NAME]
+client = motor.motor_asyncio.AsyncIOMotorClient(Rkn_Bots.DB_URL)
+db = client[Rkn_Bots.DB_NAME]
 chnl_ids = db.chnl_ids
 users = db.users
 
@@ -41,5 +41,5 @@ async def updateCap(chnl_id, caption):
 
 # Rkn Developer 
 # Don't Remove Credit 😔
-# Telegram Channel @Star_Boy_96_vibes & @Star_light_10
+# Telegram Channel @Star_Boy_96_vibes & @Rkn_Bots
 # Developer @Star_Boy_96_vibesr

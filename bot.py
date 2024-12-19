@@ -1,23 +1,23 @@
 # (c) @Star_Boy_96_vibesr
 # Rkn Developer 
 # Don't Remove Credit 😔
-# Telegram Channel @Star_Boy_96_vibes & @Star_light_10
+# Telegram Channel @Star_Boy_96_vibes & @Rkn_Bots
 # Developer @Star_Boy_96_vibesr
 
 from aiohttp import web
 from pyrogram import Client
-from config import Star_light_10, Star_light_10 as Star_Boy_96_vibes
-from Star_light_10.web_support import web_server
+from config import Rkn_Bots, Rkn_Bots as Star_Boy_96_vibes
+from Rkn_Bots.web_support import web_server
 
 class Rkn_AutoCaptionBot(Client):
     def __init__(self):
         super().__init__(
             name="Rkn-Advance-Caption-Bot",
-            api_id=Star_light_10.API_ID,
-            api_hash=Star_light_10.API_HASH,
-            bot_token=Star_light_10.BOT_TOKEN,
+            api_id=Rkn_Bots.API_ID,
+            api_hash=Rkn_Bots.API_HASH,
+            bot_token=Rkn_Bots.BOT_TOKEN,
             workers=200,
-            plugins={"root": "Star_light_10"},
+            plugins={"root": "Rkn_Bots"},
             sleep_threshold=15,
         )
 
@@ -25,10 +25,10 @@ class Rkn_AutoCaptionBot(Client):
         await super().start()
         me = await self.get_me()
         self.uptime = Star_Boy_96_vibes.BOT_UPTIME
-        self.force_channel = Star_light_10.FORCE_SUB
-        if Star_light_10.FORCE_SUB:
+        self.force_channel = Rkn_Bots.FORCE_SUB
+        if Rkn_Bots.FORCE_SUB:
             try:
-                link = await self.export_chat_invite_link(Star_light_10.FORCE_SUB)
+                link = await self.export_chat_invite_link(Rkn_Bots.FORCE_SUB)
                 self.invitelink = link
             except Exception as e:
                 print(e)
@@ -37,9 +37,9 @@ class Rkn_AutoCaptionBot(Client):
         app = web.AppRunner(await web_server())
         await app.setup()
         bind_address = "0.0.0.0"
-        await web.TCPSite(app, bind_address, Star_light_10.PORT).start()
+        await web.TCPSite(app, bind_address, Rkn_Bots.PORT).start()
         print(f"{me.first_name} Iꜱ Sᴛᴀʀᴛᴇᴅ.....✨️")
-        for id in Star_light_10.ADMIN:
+        for id in Rkn_Bots.ADMIN:
             try:
                 await self.send_message(id, f"**__{me.first_name}  Iꜱ Sᴛᴀʀᴛᴇᴅ.....✨️__**")
             except:
@@ -53,5 +53,5 @@ Rkn_AutoCaptionBot().run()
 
 # Rkn Developer 
 # Don't Remove Credit 😔
-# Telegram Channel @Star_Boy_96_vibes & @Star_light_10
+# Telegram Channel @Star_Boy_96_vibes & @Rkn_Bots
 # Developer @Star_Boy_96_vibesr
