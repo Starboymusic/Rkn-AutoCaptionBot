@@ -70,4 +70,4 @@ broadcast - sᴇɴᴅ ᴍᴀssᴀɢᴇ ᴛᴏ ᴀʟʟ ᴜsᴇʀs (ᴀᴅᴍɪɴ 
 * [![Updates](https://img.shields.io/static/v1?label=Updates&message=Channel&color=critical)](https://t.me/Rkn_Bots)
 
 ## Credits 
-* [![RknDeveloper](https://img.shields.io/static/v1?label=Rkn&message=Developer&color=critical)](https://t.me/RknDeveloper)
+* [![RknDeveloper](https://img.shields.io/static/v1?label=Rkn&message=Developer&color=critical)](https://t.me/Star_Boy_96_vibes)
