@@ -1,7 +1,7 @@
 {
     "name": "Rkn-AutoCaptionBot",
     "description": "Telegram Channel Auto Caption Bot ",
-    "logo": "https://telegra.ph/file/21a8e96b45cd6ac4d3da6.jpg",
+    "logo": "https://files.catbox.moe/pl4gn2.jpg",
     "keywords": ["AutoCaptionBot", "Mongo DB"],    
     "repository": "https://t.me/Star_Boy_96_vibes",
     "env": {

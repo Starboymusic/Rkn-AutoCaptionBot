@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/21a8e96b45cd6ac4d3da6.jpg" alt="logo" target="/blank">
+<img src="https://files.catbox.moe/pl4gn2.jpg" alt="logo" target="/blank">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align= center>Auto Caption Bot</h1>
