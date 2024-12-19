@@ -1,7 +1,7 @@
 from pyrogram import Client, filters, enums 
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from pyrogram.errors import UserNotParticipant
-from config import Rkn_Bots as Config
+from config import Star_light_10 as Config
 from .database import insert
 
 async def not_subscribed(_, client, message):
